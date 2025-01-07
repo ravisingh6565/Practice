@@ -2,9 +2,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    char a = 'A';
-    string ans;
-    ans = 2+a;
-    cout<<ans;
+  string name ="ravi";
+  name.append("singh");
+  cout<<"name is ::: "<<name;
     return 0;
 }
