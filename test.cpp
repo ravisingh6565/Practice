@@ -4,6 +4,8 @@ using namespace std;
 int main(){
   string name ="ravi";
   name.append("singh");
-  cout<<"name is ::: "<<name;
+
+cout<<name<<"display";
+
     return 0;
 }
