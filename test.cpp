@@ -3,6 +3,6 @@
 using namespace std;
 int main(){
 string name = "ravisingh";
-cout<<name.end();
+cout<<*name.begin();
 return 0;
 }
