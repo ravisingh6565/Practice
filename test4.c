@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define square(x) x*x
+#define square(x) (x*x)
  int main(){
     int i;
     int x =4;
