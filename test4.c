@@ -4,6 +4,8 @@
     int i;
     int x =4;
     i = 64/square(4);
+
+    fgdfgdfgdgdfgdfgdfgdf
    
 
 printf("%d",i);
