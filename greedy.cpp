@@ -4,6 +4,6 @@ using namespace std;
 int main(){
    
     char point = 'a';
-    cout<<point++;
+    cout<<++point;
     return 0;
 }
